@@ -1,0 +1,40 @@
+.fromlibrary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.fromlibrary hr {
+  color: black;
+  width: 800px;
+}
+
+.fromlibrary .fromlibrary-head {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.fromlibrary .fromlibrary-head h4 {
+  color: black;
+  font-size: x-large;
+}
+
+.fromlibrary .fromlibrary-body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 20px;
+          column-gap: 20px;
+}
+/*# sourceMappingURL=ContentBodyCard.css.map */

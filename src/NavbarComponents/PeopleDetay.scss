@@ -1,0 +1,43 @@
+.peopledetay {
+  display: flex;
+  padding: 70px 40px;
+  gap: 20px;
+
+  .peopledetay-poster-path {
+    width: 450px;
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgb(99, 97, 97);
+
+  }
+  .peopledetay-right {
+    display: flex;
+    flex-direction: column;
+    h1{
+        margin: 0;
+    }
+    h3{
+        margin: 0;
+    }
+    hr{
+        margin: 0;
+     
+    }
+    .peopledetay-right-bottom {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+
+      img {
+          margin-bottom: 5px;
+        width: 120px;
+        height: 180px;
+        box-shadow: 0 2px 8px rgb(99, 97, 97);
+
+      }
+      div{
+          font-size:small;
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+.content-nav {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #032541;
+  box-shadow: 0 2px 8px rgb(0, 0, 0);
+  .content-nav-left {
+    display: flex;
+    column-gap: 20px;
+    button {
+      padding: 0 15px;
+      background: none;
+      border: none;
+      color: white;
+      border-radius: 20px;
+      outline: none;
+      a {
+        font-size: 18px;
+        color: white;
+      }
+    }
+    button:hover {
+      background-color: #09497e;
+    }
+    .content-nav-logo {
+      height: 40px;
+      width: auto;
+      margin-right: 50px;
+    }
+  }
+}

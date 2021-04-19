@@ -1,0 +1,20 @@
+.fromlibrary {display: flex;
+    flex-direction: column;
+    align-items: center;
+    hr{
+        color: black;
+    width: 800px;
+    }
+    .fromlibrary-head {
+        display: flex;
+        align-items: flex-start;
+        h4{ color: black;
+            font-size: x-large;
+        }
+    }
+    .fromlibrary-body {display: flex;
+        column-gap:20px;
+    
+    }
+    
+}

@@ -1,0 +1,60 @@
+.peopledetay {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 70px 40px;
+  gap: 20px;
+}
+
+.peopledetay .peopledetay-poster-path {
+  width: 450px;
+  height: 100%;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 2px 8px #636161;
+          box-shadow: 0 2px 8px #636161;
+}
+
+.peopledetay .peopledetay-right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.peopledetay .peopledetay-right h1 {
+  margin: 0;
+}
+
+.peopledetay .peopledetay-right h3 {
+  margin: 0;
+}
+
+.peopledetay .peopledetay-right hr {
+  margin: 0;
+}
+
+.peopledetay .peopledetay-right .peopledetay-right-bottom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 20px;
+}
+
+.peopledetay .peopledetay-right .peopledetay-right-bottom img {
+  margin-bottom: 5px;
+  width: 120px;
+  height: 180px;
+  -webkit-box-shadow: 0 2px 8px #636161;
+          box-shadow: 0 2px 8px #636161;
+}
+
+.peopledetay .peopledetay-right .peopledetay-right-bottom div {
+  font-size: small;
+}
+/*# sourceMappingURL=PeopleDetay.css.map */

@@ -1,0 +1,11 @@
+
+
+.app {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(180, 180, 180);
+
+}
+a {
+  text-decoration: none;
+}
