@@ -1,7 +1,4 @@
-#LIVE LINK : https://frknbltt.github.io/film-project/
-
-
-# Getting Started with Create React App
+# Getting Started with Create App #LIVE LINK  https://frknbltt.github.io/film-project/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
